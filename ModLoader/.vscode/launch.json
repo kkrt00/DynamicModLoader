@@ -10,8 +10,7 @@
 		"args": [
 			"--openWorld" , "test",
 			"--addModPath", "${workspaceFolder}/bin/Debug/net452",
-			"--addOrigin" , "${workspaceFolder}/resources",
-			"--dataPath"  ,  "${env:VINTAGE_STORY}/vintagestory/data"
+			"--addOrigin" , "${workspaceFolder}/resources"
 		],
 		"console": "internalConsole",
 		"internalConsoleOptions": "openOnSessionStart",
