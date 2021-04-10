@@ -1,0 +1,14 @@
+{
+	"type": "code",
+	"name": "SamplePopUp",
+	"modid": "SamplePopUp",
+	"version": "1.0.0",
+	
+	"description" : "Sample Pop-Up window mod",
+	"website": "https://github.com/kkrt00",
+	"authors": [ "kkrt" ],
+	
+	"dependencies": {
+		"game": "1.8.0"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"type": "code",
+	"name": "ModLoader",
+	"modid": "ModLoader",
+	"version": "1.0.0",
+	
+	"description" : "Dynamic mod loader",
+	"website": "https://github.com/kkrt00",
+	"authors": [ "kkrt" ],
+	
+	"dependencies": {
+		"game": "1.8.0"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+		"name": "Launch Client (.NET)",
+		"type": "clr",
+		"request": "launch",
+		"preLaunchTask": "Build (Debug)",
+		"program": "E:/DEV/Vintage_Story/vintagestory/Vintagestory.exe",
+		"args": [
+			"--openWorld" , "test",
+			"--addModPath", "${workspaceFolder}/bin/Debug/net452",
+			"--addOrigin" , "${workspaceFolder}/resources",
+			"--dataPath"  ,  "${env:VINTAGE_STORY}/vintagestory/data"
+		],
+		"console": "internalConsole",
+		"internalConsoleOptions": "openOnSessionStart",
+		"requireExactSource": false
+	}]
+}

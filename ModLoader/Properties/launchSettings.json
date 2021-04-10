@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ModLoader": {
+      "commandName": "Executable",
+      "executablePath": "E:\\DEV\\Vintage_Story\\vintagestory\\Vintagestory.exe",
+      "commandLineArgs": "-openWorld=\"test\" --addModPath=\"E:\\DEV\\Vintage_Story\\dev\\Mods\\ModLoader\\bin\\Debug\\net452\" --addOrigin=\"E:\\DEV\\Vintage_Story\\dev\\Mods\\ModLoader\\resources\" --dataPath \"E:\\DEV\\Vintage_Story\\vintagestory\\data\""
+    }
+  }
+}
